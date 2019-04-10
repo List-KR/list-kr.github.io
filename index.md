@@ -10,9 +10,7 @@ List-KR은 한국어 웹 사이트 및 모바일 앱의 광고 차단과 프라�
 https://github.com/List-KR/List-KR/raw/master/filter.txt
 ```
 
-Adguard Windows 및 Mac 버전의 경우, [Filter PR #155][] 에서 서드 파티 필터 리스트에 등재되었기 때문에 필터 구독 메뉴에서 List-KR을 찾아 추가하시면 됩니다.
-
-현재 Windows / Mac 이외 플랫폼의 Adguard에서는 아직 본 필터가 SlowMemory님의 구 버전으로 남아있는 현상이 있습니다. 이 점에 관련해서 현재 Adguard 개발자와 지속적인 연락을 취하고 있으니 양해 부탁드립니다.
+Adguard의 경우, List-KR이 권장 필터로 설정되어 광고가 있는 한국어 사이트 접속 시 자동으로 활성화되나, 자동 활성화가 되지 않도록 설정한 경우 필터 구독 메뉴에서 List-KR을 찾아 추가하시면 됩니다.
 
 ## 목록 향상에 기여하는 법
 
@@ -42,6 +40,5 @@ List-KR은 Yous님의 [YousList][]에 기반하여 제작되었습니다.
 [이곳]: https://namu.wiki/w/Adguard
 [Issues]: https://github.com/List-KR/List-KR/issues
 [Creative Commons Attribution-ShareAlike 4.0]: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
-[Filter PR #155]: https://github.com/AdguardTeam/FiltersRegistry/pull/155
 [필터 구독 주소]: https://subscribe.adblockplus.org/?location=https://github.com/List-KR/List-KR/raw/master/filter.txt&title=List-KR
 [YousList]: https://github.com/yous/YousList
