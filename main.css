@@ -9,3 +9,9 @@ main
     color: #FFFFFF;
     font-family: "ubuntu","Open Sans", sans-serif;
 }
+
+.detector
+{
+    width: 1px;
+    height: 1px;
+}
