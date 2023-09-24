@@ -1,5 +1,5 @@
 window.addEventListener("DOMContentLoaded", () => {
     setTimeout(() => {
-        window.location = "https://list-kr-community.pages.dev";
+        window.location = "https://community.list-kr.com";
     }, 1000);
 });
